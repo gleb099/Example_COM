@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComWrapper1C", "ClassLibrary1\ComWrapper1C.csproj", "{6C86E125-2226-4402-863B-862105F18493}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_COMCADlib1C", "Setup_COMCADlib1C\Setup_COMCADlib1C.vdproj", "{E0EDFE64-92D9-4EBF-8429-98686A16869E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C86E125-2226-4402-863B-862105F18493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C86E125-2226-4402-863B-862105F18493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C86E125-2226-4402-863B-862105F18493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C86E125-2226-4402-863B-862105F18493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0EDFE64-92D9-4EBF-8429-98686A16869E}.Debug|Any CPU.ActiveCfg = Debug
+		{E0EDFE64-92D9-4EBF-8429-98686A16869E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30D6F657-E63D-4EB2-8003-49EFBAAFEB12}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,75 @@
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.tlb
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\CADLibControls.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\CSAppServices.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\Dependency.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\FLib.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\mstManagedAPI.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\NAlgorithms.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\CdeLib.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\NApp.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\DependencyCollections.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\CoSql.Runtime.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\CSViewModels.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\Crom.Controls.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\NExtensions.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\CoSql.StdLib.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\xmlwrapgen.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\bin\Release\Npgsql.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\obj\Release\Interop.nanoCAD.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\obj\Release\Interop.OdaX.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\obj\Release\ComWrapper1C.csproj.ResolveComReference.cache
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\obj\Release\ComWrapper1C.StartDialog.resources
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\obj\Release\ComWrapper1C.csproj.GenerateResource.cache
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\obj\Release\ComWrapper1C.csproj.CoreCompileInputs.cache
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\obj\Release\ComWrapper1C.csproj.CopyComplete
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.pdb
+C:\Users\shevchenko\Desktop\ComWrapper_1C\ClassLibrary1\ClassLibrary1\obj\Release\ComWrapper1C.csproj.AssemblyReference.cache
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\bin\Release\ClassLibrary1.tlb
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\bin\Release\CdeLib.dll
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\bin\Release\NApp.dll
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\bin\Release\DependencyCollections.dll
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\bin\Release\CoSql.Runtime.dll
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\bin\Release\CSViewModels.dll
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\bin\Release\Crom.Controls.dll
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\bin\Release\NExtensions.dll
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\bin\Release\CoSql.StdLib.dll
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\bin\Release\xmlwrapgen.dll
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\bin\Release\Npgsql.dll
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\obj\Release\ComWrapper1C.csproj.AssemblyReference.cache
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\obj\Release\Interop.nanoCAD.dll
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\obj\Release\Interop.OdaX.dll
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\obj\Release\ComWrapper1C.csproj.ResolveComReference.cache
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\obj\Release\ComWrapper1C.StartDialog.resources
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\obj\Release\ComWrapper1C.csproj.GenerateResource.cache
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\obj\Release\ComWrapper1C.csproj.CoreCompileInputs.cache
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\obj\Release\ComWrapper1C.csproj.CopyComplete
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\shevchenko\Desktop\forTSP\comwrapper_1c\ClassLibrary1\obj\Release\ClassLibrary1.pdb
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\bin\Release\ClassLibrary1.tlb
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\bin\Release\CdeLib.dll
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\bin\Release\NApp.dll
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\bin\Release\DependencyCollections.dll
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\bin\Release\CoSql.Runtime.dll
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\bin\Release\CSViewModels.dll
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\bin\Release\Crom.Controls.dll
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\bin\Release\NExtensions.dll
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\bin\Release\CoSql.StdLib.dll
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\bin\Release\xmlwrapgen.dll
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\bin\Release\Npgsql.dll
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\obj\Release\ComWrapper1C.csproj.AssemblyReference.cache
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\obj\Release\Interop.nanoCAD.dll
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\obj\Release\Interop.OdaX.dll
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\obj\Release\ComWrapper1C.csproj.ResolveComReference.cache
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\obj\Release\ComWrapper1C.StartDialog.resources
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\obj\Release\ComWrapper1C.csproj.GenerateResource.cache
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\obj\Release\ComWrapper1C.csproj.CoreCompileInputs.cache
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\obj\Release\ComWrapper1C.csproj.CopyComplete
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\shevchenko\Desktop\Новая папка (3)\comwrapper_1c\ClassLibrary1\obj\Release\ClassLibrary1.pdb
